@@ -2,6 +2,9 @@
 
 11This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img src="https://github.com/cborovskoy/cborovskoy/blob/c14bf13adc8a9c443435fd6ca4262770ef98519e/pics/projects/bitcoin_price_chart.jpg"  />
+
+
 ## Available Scripts
 
 2In the project directory, you can run:
