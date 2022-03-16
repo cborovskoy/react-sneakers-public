@@ -1,0 +1,88 @@
+.card {
+  border: 1px solid #F3F3F3;
+  padding: 20px;
+  width: 210px;
+  border-radius: 32px;
+  margin-right: 40px;;
+  margin-bottom: 40px;
+  transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+
+  &:hover {
+    border: 1px solid #F8F8F8;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.06);
+    //transform: translateY(-5px);
+  }
+
+  .favorite {
+    position: absolute;
+    cursor: pointer;
+  }
+
+  .btnFav {
+    height: 32px;
+    width: 32px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-sizing: border-box;
+    position: absolute;
+  }
+
+  .btnFavOff {
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+  }
+
+  .btnFavOn {
+    background: #FEF0F0;
+    border: 0;
+  }
+
+  h5 {
+    font-weight: 400;
+    font-size: 14px;
+  }
+
+
+  .btnAdd {
+    height: 32px;
+    width: 32px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-sizing: border-box;
+
+  }
+
+  .btnAddOn {
+    background: linear-gradient(180deg, #89F09C 0%, #3CC755 100%);
+    border: 0;
+  }
+
+  .btnAddOff {
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+  }
+
+
+  .cardBottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .cardPrice {
+      display: flex;
+      flex-direction: column;
+
+      span {
+        font-size: 11px;
+        text-transform: uppercase;
+        font-weight: 500;
+        color: #BDBDBD;
+      }
+
+      b {
+        font-size: 14px;
+        font-weight: 700;
+      }
+    }
+  }
+}
