@@ -20,3 +20,9 @@
   <td>CSS</td>
 </tr>
 </table>
+
+<hr>
+
+📫 How to reach me **cborovskoy@gmail.com** and <a href="https://t.me/cconcierge_bot" target="_blank">
+  <img src="https://github.com/cborovskoy/cborovskoy/blob/186172a344fa06712b4fafa38ac876ca4198f6c9/pics/logo_telegram.svg" width="12" height="12" />
+  **CConcierge_bot**</a> in telegram 
