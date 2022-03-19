@@ -1,6 +1,6 @@
 # The frontend of the Sneakers store👟
 <a href="https://react-sneakers-eta.vercel.app/" target="_blank">
-  <img src="https://github.com/cborovskoy/cborovskoy/blob/9c77d2c30f927a96e437f27f5db0972e2cd95e27/pics/projects/react-sneakers.jpg" />
+  <img src="https://github.com/cborovskoy/cborovskoy/blob/f0a80d97dee3a1da968ac80bac737750d7f3c270/pics/projects/react-sneakers.jpg" />
 </a>
 
 <h2 align="center"><a href="https://react-sneakers-eta.vercel.app/" target="_blank">Link to the website</a></h2>
